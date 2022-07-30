@@ -1,4 +1,4 @@
 See finished project @
 
 
-https://rex1of1.github.io/Random_Quote_Machine/
+https://github.com/rex1of1/randomQuoteMachine.git
